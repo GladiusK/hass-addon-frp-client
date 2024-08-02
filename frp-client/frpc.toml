@@ -27,6 +27,8 @@ customDomains = ["your_domain"]
 #transport.useCompression = true
 localPort = 8123
 #localIP = "0.0.0.0"
+httpUser = "admin"
+httpPassword = "admin"
 
 # [proxies.plugin]
 # type = "https2http"
